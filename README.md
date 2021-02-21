@@ -4,9 +4,13 @@ Exemple d'éditeur de textes développé avec Delphi et son framework FireMonkey
 
 Le programme permet l'ouverture et la modification classique de fichiers d'extension .txt et leur enregistrement en UTF-8.
 
-Un seul fichier peut être ouvert à la fois.
+Un seul fichier peut être ouvert à la fois. Une version multi fichiers est disponible sur https://github.com/DeveloppeurPascal/FMX-MultiPad
 
-Ce programme a été réalisé à l'occasion d'un livestream sur Twitch le jeudi 11 février 2021. Pour voir sa redifusion ou les sessions suivantes, rendez-vous sur https://www.twitch.tv/patrickpremartin
+Plus d'infos sur ce projet et revoir sa session de codage en direct sous Delphi sur https://developpeur-pascal.fr/p/_3009-live-stream-delphi-du-11-fevrier-2021-codage-d-un-editeur-de-textes-multiplateforme-simple-et-de-son-extension-a-onglets.html
+
+Pour connaître le programme des prochains live streams Twitch, rendez-vous sur https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html
+
+Et pour me suivre sur Twitch, rendez-vous sur https://www.twitch.tv/patrickpremartin dès maintenant. Vous serez y averti automatiquement des prochaines sessions.
 
 -----
 
