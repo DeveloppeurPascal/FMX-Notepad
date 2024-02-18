@@ -1,10 +1,14 @@
-# Delphi-Projects-Template
+# FMX Notepad
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
+Basic text editor developed in Delphi with its cross-platform FireMonkey (FMX) framework for Windows, macOS, Linux, iOS and Android.
 
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+The program lets you open and edit files with .txt extension and save them in UTF-8.
+
+Only one file can be opened at a time in [FMX Notepad](https://github.com/DeveloppeurPascal/FMX-Notepad). A multi-file version is available with the [FMX Multipad](https://github.com/DeveloppeurPascal/FMX-MultiPad) text editor.
+
+This software was used as a demo during a [live coding on Twitch](https://www.twitch.tv/patrickpremartin) session. You can [see the replay on Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php).
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
