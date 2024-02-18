@@ -8,7 +8,7 @@ Le programme permet l'ouverture et la modification de fichiers d'extension .txt 
 
 Un seul fichier peut être ouvert à la fois dans [FMX Notepad](https://github.com/DeveloppeurPascal/FMX-Notepad). Une version multi fichiers est disponible avec l'éditeur de textes [FMX Multipad](https://github.com/DeveloppeurPascal/FMX-MultiPad)
 
-Ce logiciel a été utilisé comme démo lors d'une session de [codage en direct sur Twitch](https://www.twitch.tv/patrickpremartin). Vous pouvez en [voir la rediffusion sur Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php).
+Ce logiciel a été utilisé comme démo lors d'une session de [codage en direct sur Twitch](https://www.twitch.tv/patrickpremartin). Vous pouvez en [voir la rediffusion sur Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php) ou consulter [d'autres vidéos sur ce logiciel d'édition de textes](https://serialstreameur.fr/poc-fmxnotepad.php).
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 

@@ -8,7 +8,7 @@ The program lets you open and edit files with .txt extension and save them in UT
 
 Only one file can be opened at a time in [FMX Notepad](https://github.com/DeveloppeurPascal/FMX-Notepad). A multi-file version is available with the [FMX Multipad](https://github.com/DeveloppeurPascal/FMX-MultiPad) text editor.
 
-This software was used as a demo during a [live coding on Twitch](https://www.twitch.tv/patrickpremartin) session. You can [see the replay on Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php).
+This software was used as a demo during a [live coding on Twitch](https://www.twitch.tv/patrickpremartin) session. You can [see the replay on Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php) or check other [videos about this text editing software](https://serialstreameur.fr/poc-fmxnotepad.php).
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
