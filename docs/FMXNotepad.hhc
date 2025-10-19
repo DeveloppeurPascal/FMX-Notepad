@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="Window Styles" value="0x800227">
+    </OBJECT>
+    <UL>      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="FMXNotepad">
+          <param name="Local" value="FMXNotepad.html">
+          </OBJECT>
+          <UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fMain">
+                  <param name="Local" value="fMain.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TForm1">
+                                  <param name="Local" value="fMain.TForm1.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FichierModifier">
+                                                  <param name="Local" value="fMain.TForm1.FichierModifier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="NomDuFichierOuvert">
+                                                  <param name="Local" value="fMain.TForm1.NomDuFichierOuvert.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ChangerTitreDeFenetre">
+                                                  <param name="Local" value="fMain.TForm1.ChangerTitreDeFenetre.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormCreate">
+                                                  <param name="Local" value="fMain.TForm1.FormCreate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actChargerFichierExecute">
+                                                  <param name="Local" value="fMain.TForm1.actChargerFichierExecute.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actEnregistrerFichierExecute">
+                                                  <param name="Local" value="fMain.TForm1.actEnregistrerFichierExecute.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actFermerFichierExecute">
+                                                  <param name="Local" value="fMain.TForm1.actFermerFichierExecute.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actNouveauFichierExecute">
+                                                  <param name="Local" value="fMain.TForm1.actNouveauFichierExecute.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mmoChangeTracking">
+                                                  <param name="Local" value="fMain.TForm1.mmoChangeTracking.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ActionList1">
+                                                  <param name="Local" value="fMain.TForm1.ActionList1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FileExit1">
+                                                  <param name="Local" value="fMain.TForm1.FileExit1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="MainMenu1">
+                                                  <param name="Local" value="fMain.TForm1.MainMenu1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="OpenDialog1">
+                                                  <param name="Local" value="fMain.TForm1.OpenDialog1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="SaveDialog1">
+                                                  <param name="Local" value="fMain.TForm1.SaveDialog1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleBook1">
+                                                  <param name="Local" value="fMain.TForm1.StyleBook1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ToolBar1">
+                                                  <param name="Local" value="fMain.TForm1.ToolBar1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actChargerFichier">
+                                                  <param name="Local" value="fMain.TForm1.actChargerFichier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actEnregistrerFichier">
+                                                  <param name="Local" value="fMain.TForm1.actEnregistrerFichier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actFermerFichier">
+                                                  <param name="Local" value="fMain.TForm1.actFermerFichier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="actNouveauFichier">
+                                                  <param name="Local" value="fMain.TForm1.actNouveauFichier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnEnregistrer">
+                                                  <param name="Local" value="fMain.TForm1.btnEnregistrer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnFermer">
+                                                  <param name="Local" value="fMain.TForm1.btnFermer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNouveau">
+                                                  <param name="Local" value="fMain.TForm1.btnNouveau.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnOuvrir">
+                                                  <param name="Local" value="fMain.TForm1.btnOuvrir.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mmo">
+                                                  <param name="Local" value="fMain.TForm1.mmo.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichier">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichier.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierEnregistrer">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierEnregistrer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierFermer">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierFermer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierNouveau">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierNouveau.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierOuvrir">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierOuvrir.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierQuitter">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierQuitter.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuFichierSeparateur">
+                                                  <param name="Local" value="fMain.TForm1.mnuFichierSeparateur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="mnuMac">
+                                                  <param name="Local" value="fMain.TForm1.mnuMac.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="svgEnregistrer">
+                                                  <param name="Local" value="fMain.TForm1.svgEnregistrer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="svgFermer">
+                                                  <param name="Local" value="fMain.TForm1.svgFermer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="svgNew">
+                                                  <param name="Local" value="fMain.TForm1.svgNew.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="svgOuvrir">
+                                                  <param name="Local" value="fMain.TForm1.svgOuvrir.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="Form1">
+                                  <param name="Local" value="fMain.Form1.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+          </UL>
+    </UL>
+</BODY>
+</HTML>
